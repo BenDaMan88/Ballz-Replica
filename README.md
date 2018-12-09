@@ -12,4 +12,4 @@ The game class intitalizes all of the parameters and starts the main loop while 
 
 There are four instantiated game objects, squares, balls, board-balls, and the player. The Player class holds the score, the number of current balls the player has along with other user data. The Ball class represents a single ball that can be launched by the player to try to hit the oncoming squares. The Square class represents one square that can be genereted on the main game board from the top of the screen and move down to the bottom. The BoardBall class represents a single new ball that is generated randomly on the board that the user can get access to if one of the other balls contacts it. 
 
-![alt text](https://github.com/BenDaMan88/Fluid-Simulator/blob/master/Main_screen.PNG)
+![alt text](https://github.com/BenDaMan88/Ballz-Replica/blob/master/Game_Screen.PNG)
